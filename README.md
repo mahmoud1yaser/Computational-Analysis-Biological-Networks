@@ -1,6 +1,5 @@
 # Protein-Protein Interactions Biological Network
 ### Project Idea
-```
 You are required to analyze a biological network of protein-protein interactions (PPIs) using the NetworkX python package. Helpful information about networks (graphs) and this package can be found in the NetworkX Reference.
 - You can get your own PPIs network or you can use the interactome titled “PathLinker_2018_human-ppi-weighted-cap0_75.txt”.
     - This file represents a directed interactome: each interaction starts from the tail node to the
@@ -27,4 +26,3 @@ You are required to analyze a biological network of protein-protein interactions
     - Provide a conversion map between the protein UniProt ID and its gene name.
         - You can be provided by one protein ID or a set of protein IDs, and then you need to get their corresponding gene names.
     - Convert the above graph as an unweighted graph and save it using the adjacency matrix method. You need to search for it.
-```
