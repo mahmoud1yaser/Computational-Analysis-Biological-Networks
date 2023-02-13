@@ -20,16 +20,16 @@ Analyzing a biological network of protein-protein interactions __(PPIs)__ using 
 method.
 
 ## Construct biological network from the above interactome:
-![Biological Network](images\output.png)
+![Biological Network](images/output.png)
 
 ## Draw the sub-network for acyclic shortest path(s) between two nodes:
-![Sub-Network formed by these shortest paths](images\shortest_paths_subnetwork.png)
+![Sub-Network formed by these shortest paths](images/shortest_paths_subnetwork.png)
 
 ## Drawing a histogram for a set of protein’s degree:
-![Histogram](images\histogram_proteins_set.png)
+![Histogram](images/histogram_proteins_set.png)
 
 ## constructing the adjacency matrix:
-![Adjacency Matrix](images\adjacency_matrix.png)
+![Adjacency Matrix](images/adjacency_matrix.png)
 
 
 
