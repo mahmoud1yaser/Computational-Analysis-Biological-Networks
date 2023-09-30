@@ -69,7 +69,7 @@ The interactome file represents a directed network of protein-protein interactio
 
 ### List all the directly connected proteins to one protein in a text file.
 
-[Proteins Degrees File](data/Q5MIZ7_predecessors.txt)
+[Protein Predecessors File](data/Q5MIZ7_predecessors.txt)
 >The output file contains :
 > - The protein Degree
 > - Table of all direct connections with this protein with their Edge weight.
